@@ -1,12 +1,13 @@
 # TonalWave
 
-# How to Run
-## Requirements
+## How to Run
+### Requirements
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Pure Data](https://puredata.info/downloads)
 
 ### Note: You might need to configure the ports on the Arduino IDE and Pure Data
 
+Steps:
 1. Open Arduino
    1. Load TonalWave.ino file
    2. Vertify
