@@ -351,6 +351,11 @@ in Pure Data) | Simon Hutchinson - https://www.youtube.com/watch?v=7sTrn39TT7k
 #X obj 358 463 *~ 0.2;
 #X obj 596 443 / 7;
 #X obj 501 449 / 5;
+#X text 518 709 Adapted from Pd Patch from Scratch: Subharmonic Chords
+(Pure Data \, No Talking \, undertones) | Simon Hutchinson https://youtu.be/fmf__JSh3Yc
+;
+#X text 22 435 Adapted from Subtractive Synth (Pure Data Tutorial #3)
+https://www.youtube.com/watch?v=FVYkQFP1_D4;
 #X connect 0 0 13 0;
 #X connect 1 0 13 0;
 #X connect 3 0 13 0;
